@@ -1,0 +1,11 @@
+edu\konrad\digiturnotest\configuration\DigiturnoConfiguration.class
+edu\konrad\digiturnotest\configuration\DigiturnoSecurityConfiguration.class
+edu\konrad\digiturnotest\dao\HibernateUtil.class
+edu\konrad\digiturnotest\model\MensajeModel.class
+edu\konrad\digiturnotest\dao\DgtAreaDao.class
+edu\konrad\digiturnotest\dao\MensajeDaoImpl.class
+edu\konrad\digiturnotest\controller\InicioController.class
+edu\konrad\digiturnotest\model\DgtAuditoriaTurno.class
+edu\konrad\digiturnotest\configuration\DigiturnoInitializer.class
+edu\konrad\configuration\DigiturnoWebApplicationInitializer.class
+edu\konrad\digiturnotest\model\DgtArea.class
